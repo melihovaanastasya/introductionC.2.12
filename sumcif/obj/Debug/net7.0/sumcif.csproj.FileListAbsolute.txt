@@ -1,0 +1,15 @@
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 2.12\introductionC.2.12\sumcif\obj\Debug\net7.0\sumcif.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 2.12\introductionC.2.12\sumcif\obj\Debug\net7.0\sumcif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 2.12\introductionC.2.12\sumcif\obj\Debug\net7.0\sumcif.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 2.12\introductionC.2.12\sumcif\obj\Debug\net7.0\sumcif.AssemblyInfo.cs
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 2.12\introductionC.2.12\sumcif\obj\Debug\net7.0\sumcif.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 2.12\introductionC.2.12\sumcif\bin\Debug\net7.0\sumcif.exe
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 2.12\introductionC.2.12\sumcif\bin\Debug\net7.0\sumcif.deps.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 2.12\introductionC.2.12\sumcif\bin\Debug\net7.0\sumcif.runtimeconfig.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 2.12\introductionC.2.12\sumcif\bin\Debug\net7.0\sumcif.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 2.12\introductionC.2.12\sumcif\bin\Debug\net7.0\sumcif.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 2.12\introductionC.2.12\sumcif\obj\Debug\net7.0\sumcif.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 2.12\introductionC.2.12\sumcif\obj\Debug\net7.0\refint\sumcif.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 2.12\introductionC.2.12\sumcif\obj\Debug\net7.0\sumcif.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 2.12\introductionC.2.12\sumcif\obj\Debug\net7.0\sumcif.genruntimeconfig.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 2.12\introductionC.2.12\sumcif\obj\Debug\net7.0\ref\sumcif.dll
